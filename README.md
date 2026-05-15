@@ -19,6 +19,9 @@ Vá ao site https://developer.nvidia.com/hpc-sdk para fazer o download do kit SD
 
 Você deverá implementar **UMA** das atividades de ordenação indicadas no arquivo PDF; pode seguir as dicas apresentadas, mas é livre para implementar de modo diferente. Entretanto, siga as instruções que forem requisitos obrigatórios.
 
-Entregue um relatório (**em PDF**) das implementações e execuções, analisandos os tempos de execução, limitações nestas medidas (experimentos), e comentando suas estratégias de implementação.
+Entregas:
+
+* todos os códigos fontes da sua implementação;
+* um relatório (**em PDF**) das implementações e execuções, analisandos os tempos de execução, limitações nestas medidas (experimentos), e comentando suas estratégias de implementação.
 
 Atividade Individual.
